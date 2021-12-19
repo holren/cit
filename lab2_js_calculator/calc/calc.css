@@ -1,0 +1,15 @@
+.calculator {
+  background-color: #e0e0e0;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculator__content {
+  margin-bottom: 24px;
+}
+.calculator__button {
+  text-align: center;
+}

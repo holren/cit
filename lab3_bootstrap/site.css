@@ -1,0 +1,18 @@
+.newfont {
+  font-size: 12px;
+}
+
+.newfont a {
+  color: #000 !important;
+}
+.carousel-inner {
+  height: 300px;
+}
+
+.card {
+  padding: 10px;
+}
+
+#header-menu a {
+  color: #000 !important;
+}
